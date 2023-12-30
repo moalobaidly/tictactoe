@@ -7,6 +7,7 @@ def printboard():
     print("----------")
     print(f"{board[6]} | {board[7]} | {board[8]} ")
     print(f"  |   |   ")
+    print("helpgi ")
 
 
 
